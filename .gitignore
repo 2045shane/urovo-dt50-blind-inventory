@@ -1,0 +1,20 @@
+*.iml
+.gradle/
+.kotlin/
+local.properties
+.idea/
+.DS_Store
+build/
+captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+*.aar
+*.so
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Vendor RFID binaries and customer APK extracts stay out of git.
+app/libs/
