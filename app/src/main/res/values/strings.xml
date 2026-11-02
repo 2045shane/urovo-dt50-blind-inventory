@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">盲扫盘点</string>
+    <string name="subtitle">优博讯 DT50 · 方案 A</string>
+    <string name="offline_badge">离线 · 不上传</string>
+    <string name="unique_label">唯一标签</string>
+    <string name="total_reads">累计读取 %1$d 次</string>
+    <string name="phase_idle">未开始</string>
+    <string name="phase_scanning">盘点中</string>
+    <string name="phase_paused">已暂停</string>
+    <string name="start">开始盘点</string>
+    <string name="stop">停止盘点</string>
+    <string name="simulate">模拟扫到</string>
+    <string name="clear">清空本场</string>
+    <string name="export">导出 CSV</string>
+    <string name="recent">最近读取</string>
+    <string name="recent_cap">屏幕显示最近 %1$d 条，导出包含全部 %2$d 个唯一标签</string>
+    <string name="empty_title">本场还没有标签</string>
+    <string name="empty_body">点「开始盘点」。演示会自动模拟读卡，也可以点「模拟扫到」。</string>
+    <string name="continue_hint">停止后再开始 = 继续本场。只有「清空本场」才新开一场。</string>
+    <string name="export_columns">CSV 列：epc, count, first_seen, last_seen</string>
+    <string name="export_empty">没有可导出的标签</string>
+    <string name="share_title">分享盘点 CSV</string>
+    <string name="share_saved">没有可分享的应用。文件已保存：%1$s</string>
+    <string name="clear_title">清空本场？</string>
+    <string name="clear_body">将停止盘点并清除已读标签。已分享的文件不会被删除。</string>
+    <string name="cancel">取消</string>
+    <string name="confirm_clear">清空</string>
+    <string name="count_times">×%1$d</string>
+    <string name="rssi_dbm">%1$d dBm</string>
+    <string name="cd_unique_count">唯一标签 %1$d</string>
+</resources>
